@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am Daniel Cao, an undergraduate at Cornell, majoring in computer science, mathematics, and statistics. My research interests include machine learning, reinforcement learning, computer vision, and natural language processing. It's my great honor and pleasure to work with [Professor Chris de Sa] (https://www.cs.cornell.edu/~cdesa) and [Professor Zhiru Zhang] (https://www.csl.cornell.edu/~zhiruz/) at Cornell University. I'll be working as an AI and Machine Learning Engineer Intern this summer 2023. 
+Hello. I am Daniel Cao, an undergraduate at Cornell, majoring in computer science, mathematics, and statistics. My research interests include machine learning, reinforcement learning, computer vision, and natural language processing. It's my great honor and pleasure to work with [Professor Chris de Sa](https://www.cs.cornell.edu/~cdesa) and [Professor Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/) at Cornell University. I'll be working as an AI and Machine Learning Engineer Intern this summer 2023. 
 
 I am interested in providing theoretical insight and confirmation in the development of new machine learning algorithms to provide better solutions various machine learning problems in terms of computational complexity and efficiency. To this end, I seek to explore the concerns of modern machine learning and how it can be improved by theoretically principled algorithms. I hope to bridge various fields of deep reinforcement learning, supervised learning, adversarial machine learning, and computer vision to find elegant results that work even in complex real world settings.
 
