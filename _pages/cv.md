@@ -41,6 +41,7 @@ Teaching:
 *  CS 4700: Introduction to Artificial Intelligence
 *  CS 4789: Introduction to Reinforcement Learning
 *  INFO 4940: How LLMs work, their potential and limitations
+*  ORIE 4741: Learning with Big Messy Data
 
 
 
