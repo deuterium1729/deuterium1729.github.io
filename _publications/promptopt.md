@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/promptopt
 excerpt: 'Haruka Kiyohara, Yuta Saito, Daniel Yiming Cao, Thorsten Joachims'
 venue: 'ICLR 2024'
+date: January 2024
 ---
 [paper]([https://arxiv.org/abs/2211.03989](https://openreview.net/forum?id=Byj8MMJmoL&referrer=%5Bthe%20profile%20of%20Haruka%20Kiyohara%5D(%2Fprofile%3Fid%3D~Haruka_Kiyohara1)))
 
