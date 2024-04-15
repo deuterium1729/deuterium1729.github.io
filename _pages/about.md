@@ -14,3 +14,5 @@ I am interested in providing theoretical insight and confirmation in the develop
 
 In my free time, I enjoy listening to classical music and playing viola. I also enjoy going on long hikes, biking, nature and landscape photography, modern history, and playing golf and frisbee. 
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3fWXdMusx4Nz0OTkYjKJwFaq_hZlpZ2_HGArU8dXB4U&cl=ffffff&w=a"></script>
+
